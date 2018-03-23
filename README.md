@@ -30,19 +30,33 @@ relates to the standard IPA symbol set.
 Phoneme Example Translation
 -- -- -- - -- -- -- - -- -- -- -- -- -
 AA odd AA D
+
 AE at AE T
+
 AH hut HH AH T
+
 AO ought AO T
+
 AW cow K AW
+
 AY hide HH AY D
+
 B be B IY
+
 CH cheese CH IY Z
+
 D dee D IY
+
 DH thee DH IY
+
 EH Ed EH D
+
 ER hurt HH ER T
+
 EY ate EY T
+
 F fee F IY
+
 
 # About nltk.corpus Package
 NLTK corpus readers. The modules in this package provide functions that can be
